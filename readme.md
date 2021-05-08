@@ -11,4 +11,5 @@
 
 \ficon\example\exaple.ino - пример использования (скетч),
 	в этот каталог необходимо паоместить скетч ficon.ino из каталога blank
+	
 \ficon\example\data\index.htm - пример использования (программа)
